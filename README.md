@@ -3,17 +3,9 @@
 ![musikernel2-sequencer-3](https://github.com/FORARTfe/MusiKernel2/assets/171307/b9746f65-a780-474a-9d71-c0c6dbefbda4)
 
 
-- [**How to Build**](#how-to-build)
-    - [Debian and Ubuntu](#debian-and-ubuntu)
-    - [Fedora](#fedora)
-    - [All Other Linux Distros](#all-other-linux-distros)
-    - [Mac OS X](#mac-os-x)
-    - [Windows](#windows)
-
-
 ### How to Build
 
-###### Debian and Ubuntu
+#### Debian and Ubuntu
 
 ```
 cd [musikernel dir]/src
@@ -24,7 +16,7 @@ cd ../ubuntu
 dpkg -i musikernel[your_version].deb  # as root
 ```
 
-###### Fedora
+#### Fedora
 
 ```
 cd [musikernel src dir]/src
@@ -34,7 +26,7 @@ cd ..
 sudo dnf install ./musikernel[version number].rpm
 ```
 
-###### All Other Linux Distros
+#### All Other Linux Distros
 
 ```
 # figure out the dependencies based on the Fedora or Ubuntu dependencies
@@ -45,10 +37,10 @@ make
 make install
 ```
 
-###### Mac OS X
+#### Mac OS X
 
 Same as the install instructions
 
-###### Windows
+#### Windows
 
 It's complicated...
