@@ -1,5 +1,8 @@
 ## MusiKernel *was* an all-in-one DAW and suite of instrument & effect plugins, designed to be easy to install and use without the need for any 3rd party software.
 
+![musikernel2-sequencer-3](https://github.com/FORARTfe/MusiKernel2/assets/171307/b9746f65-a780-474a-9d71-c0c6dbefbda4)
+
+
 - [**How to Build**](#how-to-build)
     - [Debian and Ubuntu](#debian-and-ubuntu)
     - [Fedora](#fedora)
