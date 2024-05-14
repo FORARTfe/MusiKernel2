@@ -1,37 +1,14 @@
-- [**How to install**](#how-to-install)
-    - [Windows](#windows)
-    - [Mac OS X](#mac-os-x)
-    - [Fedora](#fedora)
-    - [Ubuntu](#ubuntu)
+MusiKernel is an all-in-one DAW and suite of instrument & effect plugins, designed to be easy to install and use without the need for any 3rd party software.
+
+---
 
 - [**How to Build**](#how-to-build)
     - [Debian and Ubuntu](#debian-and-ubuntu)
-    - [Fedora](#fedora-1)
+    - [Fedora](#fedora)
     - [All Other Linux Distros](#all-other-linux-distros)
-    - [Mac OS X](#mac-os-x-1)
-    - [Windows](#windows-1)
+    - [Mac OS X](#mac-os-x)
+    - [Windows](#windows)
 
-
-### What is MusiKernel?
-
-MusiKernel is an all-in-one DAW and suite of instrument & effect plugins,
-designed to be easy to install and use without the need for any 3rd party
-software.  Simply install the package for your operating system, select your
-audio and MIDI hardware, and start making music.
-
-### How to Install
-
-###### Linux, Windows
-
-Download and install from [here](https://github.com/j3ffhubb/musikernel/releases/)
-
-###### Mac OS X
-
-[Follow the instructions here](https://github.com/j3ffhubb/homebrew-musikernel)
-
-###### Others
-
-See the build instructions below to compile from source
 
 ### How to Build
 
