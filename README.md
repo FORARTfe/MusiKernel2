@@ -1,6 +1,4 @@
-MusiKernel is an all-in-one DAW and suite of instrument & effect plugins, designed to be easy to install and use without the need for any 3rd party software.
-
----
+## MusiKernel *was* an all-in-one DAW and suite of instrument & effect plugins, designed to be easy to install and use without the need for any 3rd party software.
 
 - [**How to Build**](#how-to-build)
     - [Debian and Ubuntu](#debian-and-ubuntu)
